@@ -1,0 +1,8 @@
+pandas == 2.2.3
+joblib==1.4.2
+fastapi==0.115.6
+boto3==1.35.78
+pyarrow==18.1.0
+uvicorn==0.32.1
+typing
+# monte-carlo-data==

@@ -1,0 +1,6 @@
+.venv
+
+deliver_data_FastAPI/.venv_fastapi
+deliver_data_FastAPI/.main_dev.py
+deliver_data_FastAPI/__pycache__
+deliver_data_FastAPI/README.md
